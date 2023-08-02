@@ -2,4 +2,18 @@
 title: "Slides"
 ---
 
-This is a Quarto slidedeck. 
+## Market figures
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQmO63SAvADly-33ZEakHkh4zufaSBLRMzuGF_3TIecNokBZztAHcpjlN4WoCsuEDQ9gfWHiqNJQE90/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+
+**Current market**: The total number of customers, units, or revenue currently being generated in the market.
+
+**Market penetration formula:** Calculates the percentage of customers in the potential market who are currently purchasing a product or service.
+
+**Market segment:** A subset of the total current or potential customers in a market.
+
+**Market share**: The percentage of the total demand that a company has captured in terms of units sold or gross revenue.
+
+**Potential market:** The set of customers who have some interest in a product or service, or to whom the product is potentially relevant.

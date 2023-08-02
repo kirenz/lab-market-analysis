@@ -2,15 +2,13 @@
 title: "Lab"
 ---
 
-Welcome to this lab!
 
-Please find below the materials:
+## Market analysis case "Red"
 
-- [📑 Slides](https://github.com/kirenz/lab-template/slides/slides.html)
-- [💾 Anaconda Environment](https://github.com/kirenz/environments)
-- [💻 Notebook](https://github.com/kirenz/lab-template/tutorial/notebook.ipynb)
-- [📚 Reading]()
-- [☑️ Questions]()
-- [Mindmap]()
-- [Weekly feedback]()
+You are a marketer working for Red, a company that sells orange juice online. 
+
+- [Task description](/case/red.qmd)
+
+
+
 

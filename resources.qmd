@@ -2,4 +2,28 @@
 title: "Resources"
 ---
 
-This is a Quarto slidedeck. 
+## Technology
+
+For these case studies, you'll need the following technology:
+
+- MySQL
+- [💾 Anaconda Environment](https://github.com/kirenz/environments)
+
+
+## Excel and Google Sheets
+
+
+- [Overview of cell formulas in Excel](https://support.microsoft.com/en-au/office/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173)
+
+- [Overview of cell formulas in Google Sheets](https://support.google.com/docs/table/25273?hl=en)
+
+
+
+Please find below the materials:
+
+- [📑 Slides](https://github.com/kirenz/lab-template/slides/slides.html)
+- [💻 Notebook](https://github.com/kirenz/lab-template/tutorial/notebook.ipynb)
+- [📚 Reading]()
+- [☑️ Questions]()
+- [Mindmap]()
+- [Weekly feedback]()
