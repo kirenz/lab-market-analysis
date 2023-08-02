@@ -1,37 +1,19 @@
 ---
-title: "Market analysis case Red"
+title: "Market analysis"
 number-sections: true
 ---
 
-
-
-
-Solve the following tasks by using 
-
-a) cell formulas in spreadsheets (use Excel or Google Sheets) 
-b) Python 
+Solve the following tasks by using cell formulas in spreadsheets (use Excel or Google Sheets). 
 
 
 ::: {.callout-note}
-Take a look at @sec-glossary to get information about the definition of key market figures.
+
+- Download the [data](https://docs.google.com/spreadsheets/d/1MlwDNgvhwJoQoh1_-HZsjKK5PW0ZdeQMKQ5GuQGP-94/edit?usp=sharing) as Excel spreadsheet or work directly in Google Sheets. Note that there are two datasets: dataset-1 for task 1 to 6 and dataset-2 for tasks 7 and 8.  
+
 :::
 
+Take a look at the help pages about [cell formulas](/resources.qmd) in Excel or Google Sheets to learn how to use them. 
 
-::: {.callout-note}
-Take a look at [the slides](/slide.qmd) to get information about the definition of key market figures.
-:::
-
-
-::: {.callout-tip}
-## Data
-
-Download the [data](https://docs.google.com/spreadsheets/d/1MlwDNgvhwJoQoh1_-HZsjKK5PW0ZdeQMKQ5GuQGP-94/edit?usp=sharing) as Excel spreadsheet or work directly in Google Sheets.
-:::
-
-
-
-
----
 
 ## Market penetration
 
@@ -91,16 +73,3 @@ Divide each brand’s bottles by its total customers. Then calculate the average
 ## Current market share by brand
 
 Now analyze the competition. Compare Red with its top two competitors, Blue and Yellow. Analyze the market share of each brand in terms of customers, units, and revenue (use dataset-2).
-
-
-## Glossary {#sec-glossary}
-
-**Current market**: The total number of customers, units, or revenue currently being generated in the market.
-
-**Market penetration formula:** Calculates the percentage of customers in the potential market who are currently purchasing a product or service.
-
-**Market segment:** A subset of the total current or potential customers in a market.
-
-**Market share**: The percentage of the total demand that a company has captured in terms of units sold or gross revenue.
-
-**Potential market:** The set of customers who have some interest in a product or service, or to whom the product is potentially relevant.

@@ -12,12 +12,3 @@ title: "Resources"
 - [Overview of cell formulas in Google Sheets](https://support.google.com/docs/table/25273?hl=en)
 
 
-## Materials
-
-Please find below the materials:
-
-- [📑 Slides](https://github.com/kirenz/lab-template/slides/slides.html)
-- [📚 Reading]()
-- [☑️ Questions]()
-- [Mindmap]()
-- [Weekly feedback]()
