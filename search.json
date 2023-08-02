@@ -21,32 +21,11 @@
     "text": "Google Sheets\n\nOverview of cell formulas in Google Sheets"
   },
   {
-    "objectID": "slide.html",
-    "href": "slide.html",
-    "title": "Slides",
-    "section": "",
-    "text": "Current market: The total number of customers, units, or revenue currently being generated in the market.\nMarket penetration formula: Calculates the percentage of customers in the potential market who are currently purchasing a product or service.\nMarket segment: A subset of the total current or potential customers in a market.\nMarket share: The percentage of the total demand that a company has captured in terms of units sold or gross revenue.\nPotential market: The set of customers who have some interest in a product or service, or to whom the product is potentially relevant."
-  },
-  {
-    "objectID": "slide.html#market-figures",
-    "href": "slide.html#market-figures",
-    "title": "Slides",
-    "section": "",
-    "text": "Current market: The total number of customers, units, or revenue currently being generated in the market.\nMarket penetration formula: Calculates the percentage of customers in the potential market who are currently purchasing a product or service.\nMarket segment: A subset of the total current or potential customers in a market.\nMarket share: The percentage of the total demand that a company has captured in terms of units sold or gross revenue.\nPotential market: The set of customers who have some interest in a product or service, or to whom the product is potentially relevant."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Market analysis",
     "section": "",
     "text": "You are a marketer working for Red, a company that sells orange juice online. In order to develop a new online marketing strategy you first need to analyze and interpret some essential market figures like market penetration and market share. You’re two top competitors are the companies “Blue” and “Yellow”.\n\nTask description"
-  },
-  {
-    "objectID": "code.html",
-    "href": "code.html",
-    "title": "Code",
-    "section": "",
-    "text": "You don’t need code for this lab."
   },
   {
     "objectID": "case.html",
@@ -110,5 +89,26 @@
     "title": "Market analysis",
     "section": "8 Current market share by brand",
     "text": "8 Current market share by brand\nNow analyze the competition. Compare Red with its top two competitors, Blue and Yellow. Analyze the market share of each brand in terms of customers, units, and revenue (use dataset-2)."
+  },
+  {
+    "objectID": "slide.html",
+    "href": "slide.html",
+    "title": "Slides",
+    "section": "",
+    "text": "Current market: The total number of customers, units, or revenue currently being generated in the market.\nMarket penetration formula: Calculates the percentage of customers in the potential market who are currently purchasing a product or service.\nMarket segment: A subset of the total current or potential customers in a market.\nMarket share: The percentage of the total demand that a company has captured in terms of units sold or gross revenue.\nPotential market: The set of customers who have some interest in a product or service, or to whom the product is potentially relevant."
+  },
+  {
+    "objectID": "slide.html#market-figures",
+    "href": "slide.html#market-figures",
+    "title": "Slides",
+    "section": "",
+    "text": "Current market: The total number of customers, units, or revenue currently being generated in the market.\nMarket penetration formula: Calculates the percentage of customers in the potential market who are currently purchasing a product or service.\nMarket segment: A subset of the total current or potential customers in a market.\nMarket share: The percentage of the total demand that a company has captured in terms of units sold or gross revenue.\nPotential market: The set of customers who have some interest in a product or service, or to whom the product is potentially relevant."
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Code",
+    "section": "",
+    "text": "You don’t need code for this lab."
   }
 ]
