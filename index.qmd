@@ -1,14 +1,8 @@
 ---
-title: "Lab"
+title: "Market analysis"
 ---
 
+You are a marketer working for Red, a company that sells orange juice online. In order to develop a new online marketing strategy you first need to analyze and interpret some essential market figures like market penetration and market share. You’re two top competitors are the companies “Blue” and “Yellow”. 
 
-## Market analysis case "Red"
-
-You are a marketer working for Red, a company that sells orange juice online. 
-
-- [Task description](/case/red.qmd)
-
-
-
+- [Task description](case.qmd)
 
