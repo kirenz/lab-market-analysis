@@ -21,12 +21,9 @@ website:
       - text: "Code"
         href: code.qmd
     right:
-      - icon: linkedin
-        href: https://www.linkedin.com/in/jan-kirenz-01b301a5/
-        aria-label: LinkedIn
-      - icon: github
-        href: https://github.com/kirenz
-        aria-label: GitHub      
+      - icon: person-circle
+        href: https://e-learning.hdm-stuttgart.de/moodle/login/index.php
+        aria-label: Moodle        
   navbar:
     left:
       - href: index.qmd
