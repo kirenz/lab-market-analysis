@@ -1,0 +1,13 @@
+---
+title: "Workflow"
+---
+
+This is a Quarto slidedeck. 
+
+1. Create new labs GitHub-Repo
+1. Create new branch `gh-pages`
+1. Change settings in page: gh-pages and root
+1. Open VS Code
+1. Change Quarto seetings in files
+1. Render all in terminal: quarto render
+1. Push to GitHub

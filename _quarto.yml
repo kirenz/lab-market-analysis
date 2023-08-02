@@ -1,0 +1,45 @@
+project:
+  type: website
+
+execute:
+  freeze: auto
+
+website:
+  title: "Lab"
+  image: "logo.png"
+  favicon: "logo.png"
+  search:
+    type: overlay  
+  page-footer:
+    left: |
+      © [Jan Kirenz](https://www.kirenz.com/), 2023
+    center:
+      - text: "Slides"
+        href: slide.qmd
+      - text: "Resources"
+        href: resources.qmd  
+      - text: "Code"
+        href: code.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jan-kirenz-01b301a5/
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/kirenz
+        aria-label: GitHub      
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - slide.qmd
+      - resources.qmd
+      - code.qmd
+
+format:
+  html:
+    toc: true
+    theme:
+      light: [cosmo, theme.scss]
+    code-copy: true
+    code-overflow: wrap
+    css: styles.css
