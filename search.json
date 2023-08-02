@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "This is a Quarto slidedeck."
+  },
+  {
+    "objectID": "code/notebook.html",
+    "href": "code/notebook.html",
+    "title": "Notebook",
+    "section": "",
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "code/notebook.html#setup",
+    "href": "code/notebook.html#setup",
+    "title": "Notebook",
+    "section": "",
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "code/notebook.html#data",
+    "href": "code/notebook.html#data",
+    "title": "Notebook",
+    "section": "Data",
+    "text": "Data"
+  },
+  {
+    "objectID": "slides/slides.html#text",
+    "href": "slides/slides.html#text",
+    "title": "Title",
+    "section": "Text",
+    "text": "Text\n\na 🤖\n\nabc\n\n\n\n\nb\nc1\n\n📚 Required reading: A & B (2023)\nhttps://arxiv.org/pdf/2303.12712.pdf\n\nRussell & Norvig, 2009"
+  },
+  {
+    "objectID": "slides/slides.html#image",
+    "href": "slides/slides.html#image",
+    "title": "Title",
+    "section": "Image",
+    "text": "Image"
+  },
+  {
+    "objectID": "slides/slides.html#video",
+    "href": "slides/slides.html#video",
+    "title": "Title",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "slides/slides.html#a-lot-of-text",
+    "href": "slides/slides.html#a-lot-of-text",
+    "title": "Title",
+    "section": "A lot of text",
+    "text": "A lot of text\nSmaller heading"
+  },
+  {
+    "objectID": "slides/slides.html#background-image",
+    "href": "slides/slides.html#background-image",
+    "title": "Title",
+    "section": "Background image",
+    "text": "Background image\nabc"
+  },
+  {
+    "objectID": "slides/slides.html#code",
+    "href": "slides/slides.html#code",
+    "title": "Title",
+    "section": "Code",
+    "text": "Code\n1print('Hello World')\n2for i in LIST:\n  df[i] = df[i].astype('cat')\n\n1\n\nPrint Hello World, and then,\n\n2\n\ntransform all columns in the LIST element to categorical variables"
+  },
+  {
+    "objectID": "slides/slides.html#end",
+    "href": "slides/slides.html#end",
+    "title": "Title",
+    "section": "End",
+    "text": "End\n\n\nJan Kirenz"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lab",
+    "section": "",
+    "text": "Welcome to this lab!\nPlease find below the materials:\n\n📑 Slides\n💾 Anaconda Environment\n💻 Notebook\n📚 Reading\n☑️ Questions\nMindmap\nWeekly feedback"
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Code",
+    "section": "",
+    "text": "This is a Quarto slidedeck."
+  },
+  {
+    "objectID": "slide.html",
+    "href": "slide.html",
+    "title": "Slides",
+    "section": "",
+    "text": "This is a Quarto slidedeck."
+  },
+  {
+    "objectID": "workflow.html",
+    "href": "workflow.html",
+    "title": "Workflow",
+    "section": "",
+    "text": "This is a Quarto slidedeck.\n\nCreate new labs GitHub-Repo\nCreate new branch gh-pages\nChange settings in page: gh-pages and root\nOpen VS Code\nChange Quarto seetings in files\nRender all in terminal: quarto render\nPush to GitHub"
+  }
+]
