@@ -2,9 +2,9 @@
 title: "Market analysis"
 ---
 
-You are a marketer working for Red, a company that sells orange juice online. 
+You are a marketer working for Red, a company that sells orange juice online. You’re two top competitors are the companies “Blue” and “Yellow”. 
 
-In order to develop a new online marketing strategy you first need to analyze and interpret some essential market figures like market penetration and market share. You’re two top competitors are the companies “Blue” and “Yellow”. 
+To identify a new target audience, you must first examine and understand key market metrics such as market penetration and market share.
 
 ::: {.callout-important}
 Read the lecture [slides](/slide.qmd) before you start with the [assignments](/assignments.qmd) 
