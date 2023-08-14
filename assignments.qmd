@@ -1,5 +1,5 @@
 ---
-title: "Market analysis"
+title: "Assignments"
 number-sections: true
 ---
 
