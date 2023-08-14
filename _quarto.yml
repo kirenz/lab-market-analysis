@@ -5,7 +5,7 @@ execute:
   freeze: auto
 
 website:
-  title: "Lab"
+  title: "Market-Analysis"
   image: "logo.png"
   favicon: "logo.png"
   search:
@@ -16,10 +16,8 @@ website:
     center:
       - text: "Slides"
         href: slide.qmd
-      - text: "Resources"
-        href: resources.qmd  
-      - text: "Code"
-        href: code.qmd
+      - text: "Assignments"
+        href: assignments.qmd
     right:
       - icon: person-circle
         href: https://e-learning.hdm-stuttgart.de/moodle/login/index.php
@@ -29,8 +27,7 @@ website:
       - href: index.qmd
         text: Home
       - slide.qmd
-      - resources.qmd
-      - code.qmd
+      - assignments.qmd
 
 format:
   html:
