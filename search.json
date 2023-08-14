@@ -2,63 +2,63 @@
   {
     "objectID": "assignments.html",
     "href": "assignments.html",
-    "title": "Market analysis",
+    "title": "Assignments",
     "section": "",
     "text": "Solve the following tasks by using cell formulas in spreadsheets (use Excel or Google Sheets)."
   },
   {
     "objectID": "assignments.html#market-penetration",
     "href": "assignments.html#market-penetration",
-    "title": "Market analysis",
+    "title": "Assignments",
     "section": "1 Market penetration",
     "text": "1 Market penetration\nFirst, use the market penetration formula (calculates the percentage of customers in the potential market who are currently purchasing a product or service) to determine the growth opportunity for orange juice.\nIn this example, Red’s defined current customers as individuals who buy orange juice. This is a subset of the larger group of potential customers (the set of customers who have some interest in a product or service, or to whom the product is potentially relevant)— individuals who buy a variety of other juices.\nCalculate both the (1) market penetration and the (2) market growth opportunity."
   },
   {
     "objectID": "assignments.html#market-penetration-by-segment",
     "href": "assignments.html#market-penetration-by-segment",
-    "title": "Market analysis",
+    "title": "Assignments",
     "section": "2 Market penetration by segment",
     "text": "2 Market penetration by segment\nNext, identify market segments and use the market penetration formula to determine the growth potential for each of the segments.\nRed identified three customer segments of the 150 million juice consumers based on the number of bottles an individual purchased per year:\n\nfrequent buyers\nmoderate buyers\noccasional buyers\n\nThese market segments are a subset of the total current or potential customers in the market. They add up to the total number of customers.\nThe market penetration formula helps you determine the growth potential for each of these three market segments."
   },
   {
     "objectID": "assignments.html#potential-market-sales",
     "href": "assignments.html#potential-market-sales",
-    "title": "Market analysis",
+    "title": "Assignments",
     "section": "3 Potential market sales",
     "text": "3 Potential market sales\nNext, estimate annual sales (in (1) units and (2) gross revenue) for each segment of the juice market. Then add up the segment results to find the total potential sales.\nOn average, frequent buyers purchased 21 bottles of juice last year and were very price-sensitive. They waited for sales or used coupons so that they paid only $1.99 for a bottle of juice.\nModerate buyers purchased eight bottles of juice, sometimes on sale, but sometimes at full price, so they paid, on average, $3.49 for a bottle of juice.\nOccasional buyers purchased three bottles of juice and were price-insensitive, usually paying full price, $4.99, for a bottle of juice."
   },
   {
     "objectID": "assignments.html#current-market-sales",
     "href": "assignments.html#current-market-sales",
-    "title": "Market analysis",
+    "title": "Assignments",
     "section": "4 Current market sales",
     "text": "4 Current market sales\nNow find the current market sales (in units and revenue) for orange juice by segment. Then add up the segment results to find the total current sales."
   },
   {
     "objectID": "assignments.html#current-market-share-by-segment",
     "href": "assignments.html#current-market-share-by-segment",
-    "title": "Market analysis",
+    "title": "Assignments",
     "section": "5 Current market share by segment",
     "text": "5 Current market share by segment\nNext, calculate the market share of each segment of the current orange juice market in terms of customers, bottles, and revenue.\nDivide each market segment’s quantity by the total amount (the sum of all three segments) of customers, bottles, and revenue."
   },
   {
     "objectID": "assignments.html#current-market-units-and-average-price",
     "href": "assignments.html#current-market-units-and-average-price",
-    "title": "Market analysis",
+    "title": "Assignments",
     "section": "6 Current market units and average price",
     "text": "6 Current market units and average price\nUse the current market’s total sales, in units and revenue, to determine, on average, how many bottles of orange juice each customer purchases and at what price.\nLater, you will use these averages to help you analyze pricing and individual customer sales across all orange juice brands."
   },
   {
     "objectID": "assignments.html#current-market-average-unitsprice-by-brand",
     "href": "assignments.html#current-market-average-unitsprice-by-brand",
-    "title": "Market analysis",
+    "title": "Assignments",
     "section": "7 Current market average units/price by brand",
     "text": "7 Current market average units/price by brand\nNow you’re ready to calculate the average number of bottles purchased by a customer of Red, Blue, and Yellow (use dataset-2).\nDivide each brand’s bottles by its total customers. Then calculate the average price paid for a Red, Blue, and Yellow bottle by dividing the total revenue by the total bottles. Compare these results with the general averages that you calculated in 6."
   },
   {
     "objectID": "assignments.html#current-market-share-by-brand",
     "href": "assignments.html#current-market-share-by-brand",
-    "title": "Market analysis",
+    "title": "Assignments",
     "section": "8 Current market share by brand",
     "text": "8 Current market share by brand\nNow analyze the competition. Compare Red with its top two competitors, Blue and Yellow. Analyze the market share of each brand in terms of customers, units, and revenue (use dataset-2)."
   },
