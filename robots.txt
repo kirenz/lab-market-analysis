@@ -1,1 +1,1 @@
-Sitemap: https://github.com/kirenz/lab-market-analysis/sitemap.xml
+Sitemap: https://kirenz.github.io/lab-market-analysis/sitemap.xml

@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "slide.html",
+    "href": "slide.html",
+    "title": "Slides",
+    "section": "",
+    "text": "Current market: The total number of customers, units, or revenue currently being generated in the market.\nMarket penetration formula: Calculates the percentage of customers in the potential market who are currently purchasing a product or service.\nMarket segment: A subset of the total current or potential customers in a market.\nMarket share: The percentage of the total demand that a company has captured in terms of units sold or gross revenue.\nPotential market: The set of customers who have some interest in a product or service, or to whom the product is potentially relevant."
+  },
+  {
+    "objectID": "slide.html#market-figures",
+    "href": "slide.html#market-figures",
+    "title": "Slides",
+    "section": "",
+    "text": "Current market: The total number of customers, units, or revenue currently being generated in the market.\nMarket penetration formula: Calculates the percentage of customers in the potential market who are currently purchasing a product or service.\nMarket segment: A subset of the total current or potential customers in a market.\nMarket share: The percentage of the total demand that a company has captured in terms of units sold or gross revenue.\nPotential market: The set of customers who have some interest in a product or service, or to whom the product is potentially relevant."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome 👋",
+    "section": "",
+    "text": "You are a marketer working for Red, a company that sells orange juice online. You’re two top competitors are the companies “Blue” and “Yellow”.\nTo identify a new target audience, you must first examine and understand key market metrics such as market penetration and market share.\n\n\n\n\n\n\nImportant\n\n\n\nRead the lecture slides before you start with the assignments\n\n\nIn this lab, you will learn to:\n\nUse and calculate important market metrics\nUtilize Excel or Google Sheets cell formulas to calculate metrics"
+  },
+  {
     "objectID": "assignments.html",
     "href": "assignments.html",
     "title": "Assignments",
@@ -61,26 +82,5 @@
     "title": "Assignments",
     "section": "8 Current market share by brand",
     "text": "8 Current market share by brand\nNow analyze the competition. Compare Red with its top two competitors, Blue and Yellow. Analyze the market share of each brand in terms of customers, units, and revenue (use dataset-2)."
-  },
-  {
-    "objectID": "slide.html",
-    "href": "slide.html",
-    "title": "Slides",
-    "section": "",
-    "text": "Current market: The total number of customers, units, or revenue currently being generated in the market.\nMarket penetration formula: Calculates the percentage of customers in the potential market who are currently purchasing a product or service.\nMarket segment: A subset of the total current or potential customers in a market.\nMarket share: The percentage of the total demand that a company has captured in terms of units sold or gross revenue.\nPotential market: The set of customers who have some interest in a product or service, or to whom the product is potentially relevant."
-  },
-  {
-    "objectID": "slide.html#market-figures",
-    "href": "slide.html#market-figures",
-    "title": "Slides",
-    "section": "",
-    "text": "Current market: The total number of customers, units, or revenue currently being generated in the market.\nMarket penetration formula: Calculates the percentage of customers in the potential market who are currently purchasing a product or service.\nMarket segment: A subset of the total current or potential customers in a market.\nMarket share: The percentage of the total demand that a company has captured in terms of units sold or gross revenue.\nPotential market: The set of customers who have some interest in a product or service, or to whom the product is potentially relevant."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome 👋",
-    "section": "",
-    "text": "You are a marketer working for Red, a company that sells orange juice online. You’re two top competitors are the companies “Blue” and “Yellow”.\nTo identify a new target audience, you must first examine and understand key market metrics such as market penetration and market share.\n\n\n\n\n\n\nImportant\n\n\n\nRead the lecture slides before you start with the assignments\n\n\nIn this lab, you will learn to:\n\nUse and calculate important market metrics\nUtilize Excel or Google Sheets cell formulas to calculate metrics"
   }
 ]
